@@ -1,0 +1,44 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/hWWr0Gy/1.jpg",
+      "title": "The Mystery of Midnight Manor",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/1dbNTqB/boy1.png",
+      "posted_date": "September 27, 2023",
+      "reading_time": "45",
+      "hashtags": ["#Mystery", "#Fiction", "#Thriller"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://i.ibb.co/phKZmmn/2.png" ,
+      "title": "Adventures in Wonderland",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/FVJW48p/boy2.jpg",
+      "posted_date": "September 25, 2023",
+      "reading_time": 60,
+      "hashtags": ["#Fantasy", "#Adventure", "#Classic"]
+    },
+    {
+      "id": 54321,
+      "cover": "https://i.ibb.co/N9phjSF/3.png",
+      "title": "The Secret Garden",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/QDvYRSt/girl1.jpg",
+      "posted_date": "September 22, 2023",
+      "Reading_Time": 50,
+      "hashtags": ["#ChildrensBook", "#Classic", "#Nature"]
+    },
+    {
+      "id": 98765,
+      "cover": "https://i.ibb.co/0mKL8jg/4.jpg",
+      "title": "A Journey Through Time",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/86YqDj9/girl2.jpg",
+      "posted_date": "September 20, 2023",
+      "reading_time": "75",
+      "hashtags": ["#ScienceFiction", "#TimeTravel", "#Adventure"]
+    }
+    
+  ]
+  
